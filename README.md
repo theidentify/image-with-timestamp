@@ -2,7 +2,7 @@
 - This project is make for generate new image with any format with timestamp  so, you can customize it as you wish
 
 ## Output format
-- ${stationCode}_${serial}_${YYYYMMDDHHmmSSSSSS}.png
+- $stationCode_$serial_YYYYMMDDHHmmSSSSSS_$event.png
 
 ## Install dependencies
 ```
